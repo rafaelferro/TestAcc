@@ -1,0 +1,15 @@
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ExeAccountSLN.csproj.AssemblyReference.cache
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ExeAccountSLN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ExeAccountSLN.AssemblyInfoInputs.cache
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ExeAccountSLN.AssemblyInfo.cs
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ExeAccountSLN.csproj.CoreCompileInputs.cache
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\bin\Debug\net6.0\ExeAccountSLN.exe
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\bin\Debug\net6.0\ExeAccountSLN.deps.json
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\bin\Debug\net6.0\ExeAccountSLN.runtimeconfig.json
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\bin\Debug\net6.0\ExeAccountSLN.dll
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\bin\Debug\net6.0\ExeAccountSLN.pdb
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ExeAccountSLN.dll
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\refint\ExeAccountSLN.dll
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ExeAccountSLN.pdb
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ExeAccountSLN.genruntimeconfig.cache
+C:\Git\teste\ExeAccountSLN\ExeAccountSLN\obj\Debug\net6.0\ref\ExeAccountSLN.dll

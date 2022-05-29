@@ -1,0 +1,12 @@
+C:\Git\teste\ExeAccountSLN\ExAccountService\bin\Debug\net6.0\ExAccountService.deps.json
+C:\Git\teste\ExeAccountSLN\ExAccountService\bin\Debug\net6.0\ExAccountService.dll
+C:\Git\teste\ExeAccountSLN\ExAccountService\bin\Debug\net6.0\ExAccountService.pdb
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\ExAccountService.csproj.AssemblyReference.cache
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\ExAccountService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\ExAccountService.AssemblyInfoInputs.cache
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\ExAccountService.AssemblyInfo.cs
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\ExAccountService.csproj.CoreCompileInputs.cache
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\ExAccountService.dll
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\refint\ExAccountService.dll
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\ExAccountService.pdb
+C:\Git\teste\ExeAccountSLN\ExAccountService\obj\Debug\net6.0\ref\ExAccountService.dll
